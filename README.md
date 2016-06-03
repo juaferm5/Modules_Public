@@ -8,7 +8,3 @@ Index
 
 Tools
 ----------------
-
-    |HEADER|HEADER|
-    |value|value|
-    |value|value|
