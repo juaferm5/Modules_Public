@@ -6,8 +6,7 @@ Index
 ----------------
     1. Test from Scala Test
     2. Spark Modules
-     ⋅ 1.⋅Context
-
+    
 Tools
 ----------------
 ### Dependencies in SBT
