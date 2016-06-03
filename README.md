@@ -8,7 +8,10 @@ Index
 
 Tools
 ----------------
-**This text will be bold**
+**Dependencies in SBT**
+```sbt
+    libraryDependencies += "org.apache.spark" % "spark-core_2.10" % "1.6.1"
+```
 
 Code
 ----------------
